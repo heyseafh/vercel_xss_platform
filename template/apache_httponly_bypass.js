@@ -1,4 +1,4 @@
-var website="http://网站地址";
+var website="https://xss-black.vercel.app/";
 function setCookies() {
     /*apache server limit 8192*/
     var str = "";
